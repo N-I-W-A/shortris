@@ -9,7 +9,9 @@
 			"difficulty": {
 				"hard": "hard",
 				"normal": "normal"
-			}
+			},
+			"update":"Update",
+			"language":"Language"
 		}
 	}
 }
