@@ -1,4 +1,4 @@
 {
-  init:true,
-  test:10
+  "init":true,
+  "test":10
 }
