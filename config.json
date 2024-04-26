@@ -1,8 +1,9 @@
 {
 	"update": true,
 	"version": 1,
-	"language": "ja",
+	"language": "test",
 	"language-list": [
+		"test",
 		"en",
 		"ja"
 	]
