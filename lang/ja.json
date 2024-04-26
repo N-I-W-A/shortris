@@ -2,9 +2,9 @@
 	"shotris": {
 		"menu": {
 			"title": "ショトリス",
-      "start_game":"ゲームを開始する",
-      "option":"オプション",
-      "exit_game":"終了"
+			"start_game": "ゲームを開始する",
+			"option": "オプション",
+			"exit_game": "終了",
 			"choose_difficulty": "難易度を選択してください。",
 			"difficulty": {
 				"hard": "ハード",
