@@ -1,5 +1,9 @@
 {
-  "init":true,
-  "version":1.0,
-  "language":"en"
+	"init": true,
+	"version": 1,
+	"language": "en",
+	"language-list": [
+		"en",
+		"ja"
+	]
 }
