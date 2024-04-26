@@ -1,6 +1,6 @@
 {
-	"init": true,
-	"version": 1,
+	"update": true,
+	"version": 2,
 	"language": "en",
 	"language-list": [
 		"en",
