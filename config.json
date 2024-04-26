@@ -2,8 +2,9 @@
 	"init": true,
 	"update": true,
 	"version": 1,
-	"language": "en",
+	"language": "test",
 	"language-list": [
+		"test",
 		"en",
 		"ja"
 	]
