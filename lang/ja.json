@@ -9,7 +9,9 @@
 			"difficulty": {
 				"hard": "ハード",
 				"normal": "ノーマル"
-			}
+			},
+			"update":"アップデート",
+			"language":"言語"
 		}
 	}
 }
