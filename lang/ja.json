@@ -1,1 +1,15 @@
-{"shotris":{"menu":{"title":"ショトリス","choose_difficulty":"難易度を選択してください。","difficulty":{"hard":"ハード","normal":"ノーマル"}}}}
+{
+	"shotris": {
+		"menu": {
+			"title": "ショトリス",
+      "start_game":"ゲームを開始する",
+      "option":"オプション",
+      "exit_game":"終了"
+			"choose_difficulty": "難易度を選択してください。",
+			"difficulty": {
+				"hard": "ハード",
+				"normal": "ノーマル"
+			}
+		}
+	}
+}
