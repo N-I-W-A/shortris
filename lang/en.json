@@ -5,7 +5,7 @@
 			"start_game": "Start game",
 			"option": "Option",
 			"exit_game": "Exit",
-			"choose_difficulty": "Choose difficulty。",
+			"choose_difficulty": "Choose difficulty",
 			"difficulty": {
 				"hard": "hard",
 				"normal": "normal"
