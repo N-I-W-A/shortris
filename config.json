@@ -1,4 +1,5 @@
 {
+	"init": true
 	"update": true,
 	"version": 1,
 	"language": "test",
