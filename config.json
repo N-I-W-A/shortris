@@ -2,7 +2,7 @@
 	"init": true
 	"update": true,
 	"version": 1,
-	"language": "test",
+	"language": "en",
 	"language-list": [
 		"test",
 		"en",
