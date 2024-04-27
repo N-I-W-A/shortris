@@ -9,8 +9,11 @@
 				"update": "Update",
 			        "auto_update": "Auto update",
 			        "languages": "Languages"
-			}
+			},
 			"exit_game": "Exit",
+			"template": {
+				"ask_change": "Current value is @before. Would you like to change it to @after?
+			},
 			"choose_difficulty": "Choose difficulty",
 			"difficulty": {
 				"hard": "hard",
