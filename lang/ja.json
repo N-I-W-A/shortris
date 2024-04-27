@@ -2,16 +2,20 @@
 	"shotris": {
 		"menu": {
 			"title": "ショトリス",
-			"start_game": "ゲームを開始する",
-			"option": "オプション",
+			"start_game": "ゲームを開始",
+			"options": "オプション",
+			"option": {
+				"systems": "システム"
+				"update": "アップデート",
+			        "auto_update": "自動アップデート",
+			        "languages": "言語"
+			}
 			"exit_game": "終了",
-			"choose_difficulty": "難易度を選択してください。",
+			"choose_difficulty": "難易度を選択してください",
 			"difficulty": {
 				"hard": "ハード",
 				"normal": "ノーマル"
-			},
-			"update":"アップデート",
-			"language":"言語"
+			}
 		}
 	}
 }
