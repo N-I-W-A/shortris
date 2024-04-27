@@ -1,6 +1,7 @@
 {
 	"init": true,
 	"update": true,
+	"auto_update": true
 	"version": 1,
 	"difficulty": "NODATA",
 	"language": "en",
