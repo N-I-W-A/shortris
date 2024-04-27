@@ -11,14 +11,14 @@
 			        "languages": "言語"
 			},
 			"exit_game": "終了",
-			"template": {
-				"ask_change": "現在の値は@beforeです。@afterに変更しますか？"
-			},
 			"choose_difficulty": "難易度を選択してください",
 			"difficulty": {
 				"hard": "ハード",
 				"normal": "ノーマル"
 			}
+		},
+		"template": {
+			"ask_change": "現在の値は@beforeです。@afterに変更しますか？"
 		}
 	}
 }
