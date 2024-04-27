@@ -5,12 +5,15 @@
 			"start_game": "ゲームを開始",
 			"options": "オプション",
 			"option": {
-				"systems": "システム"
+				"systems": "システム",
 				"update": "アップデート",
 			        "auto_update": "自動アップデート",
 			        "languages": "言語"
-			}
+			},
 			"exit_game": "終了",
+			"template": {
+				"ask_change": "現在の値は@beforeです。@afterに変更しますか？"
+			},
 			"choose_difficulty": "難易度を選択してください",
 			"difficulty": {
 				"hard": "ハード",
