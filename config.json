@@ -2,6 +2,7 @@
 	"init": true,
 	"update": true,
 	"version": 1,
+	"difficulty": "NODATA",
 	"language": "en",
 	"language-list": [
 		"en",
