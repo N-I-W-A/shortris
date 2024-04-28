@@ -6,20 +6,29 @@
 			"options": "オプション",
 			"option": {
 				"systems": "システム",
-				"update": "アップデート",
+				"check_update": "アップデートをチェック",
 			        "auto_update": "自動アップデート",
+				"initialize": "初期化",
+				"uninstall": "ショトリスのデータをアンインストール",
+				"playdata_export": "プレイデータをエクスポート",
 			        "languages": "言語"
 			},
-			"exit_game": "終了",
+			"exit_game": "ゲームを終了",
 			"cancel": "キャンセル",
-			"choose_difficulty": "難易度を選択してください",
+			"choose_difficulty": "難易度を選択",
 			"difficulty": {
 				"hard": "ハード",
 				"normal": "ノーマル"
 			}
 		},
 		"template": {
-			"ask_change": "現在の値は\"@before\"です。\"@after\"に変更しますか？"
+			"ask_change": "現在の@somethingは\"@before\"です。\"@after?\に変更しますか？""
+		},
+		"word": {
+			"value": "値",
+			"version": "バージョン,
+			"file": "ファイル",
+			"time": "時間"
 		}
 	}
 }
