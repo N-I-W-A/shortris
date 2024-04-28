@@ -1,7 +1,7 @@
 {
 	"shotris": {
 		"menu": {
-			"title": "ショトリス",
+			"title": "ショートリス",
 			"start_game": "ゲームを開始",
 			"options": "オプション",
 			"option": {
@@ -9,7 +9,7 @@
 				"check_update": "アップデートをチェック",
 			        "auto_update": "自動アップデート",
 				"initialize": "初期化",
-				"uninstall": "ショトリスのデータをアンインストール",
+				"uninstall": "ショートリスをアンインストール",
 				"playdata_export": "プレイデータをエクスポート",
 			        "languages": "言語"
 			},
