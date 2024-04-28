@@ -18,7 +18,7 @@
 			}
 		},
 		"template": {
-			"ask_change": "Current value is @before. Would you like to change it to @after?"
+			"ask_change": "Current value is \"@before\". Would you like to change it to \"@after?\""
 		}
 	}
 }
