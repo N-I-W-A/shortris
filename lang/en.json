@@ -11,6 +11,7 @@
 			        "languages": "Languages"
 			},
 			"exit_game": "Exit",
+			"cancel": "Cancel",
 			"choose_difficulty": "Choose difficulty",
 			"difficulty": {
 				"hard": "hard",
