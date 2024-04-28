@@ -1,7 +1,7 @@
 {
 	"shotris": {
 		"menu": {
-			"title": "shotris",
+			"title": "Shortris",
 			"start_game": "Start Game",
 			"options": "Options",
 			"option": {
@@ -9,7 +9,7 @@
 				"check_update": "Check Update",
 			        "auto_update": "Auto Update",
 				"initialize": "Initialize",
-				"uninstall": "Uninstall Shotris Data",
+				"uninstall": "Uninstall Shortris Data",
 				"playdata_export": "Export Play Data",
 			        "languages": "Languages"
 			},
