@@ -2,24 +2,33 @@
 	"shotris": {
 		"menu": {
 			"title": "shotris",
-			"start_game": "Start game",
+			"start_game": "Start Game",
 			"options": "Options",
 			"option": {
 				"systems": "Systems",
-				"update": "Update",
-			        "auto_update": "Auto update",
+				"check_update": "Check Update",
+			        "auto_update": "Auto Update",
+				"initialize": "Initialize",
+				"uninstall": "Uninstall Shotris Data",
+				"playdata_export": "Export Play Data",
 			        "languages": "Languages"
 			},
 			"exit_game": "Exit",
 			"cancel": "Cancel",
-			"choose_difficulty": "Choose difficulty",
+			"choose_difficulty": "Choose Difficulty",
 			"difficulty": {
 				"hard": "hard",
 				"normal": "normal"
 			}
 		},
 		"template": {
-			"ask_change": "Current value is \"@before\". Would you like to change it to \"@after?\""
+			"ask_change": "Current @something is \"@before\". Would you like to change it to \"@after?\""
+		},
+		"word": {
+			"value": "value",
+			"version": "version,
+			"file": "file",
+			"time": "time"
 		}
 	}
 }
