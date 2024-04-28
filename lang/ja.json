@@ -22,7 +22,7 @@
 			}
 		},
 		"template": {
-			"ask_change": "現在の@somethingは\"@before\"です。\"@after?\"に変更しますか？"
+			"ask_change": "現在の@somethingは\"@before\"です。\"@after\"に変更しますか？"
 		},
 		"word": {
 			"value": "値",
