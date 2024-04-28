@@ -22,7 +22,8 @@
 			}
 		},
 		"template": {
-			"ask_change": "Current @something is \"@before\". Would you like to change it to \"@after\"?"
+			"ask_change": "Current @a is \"@b\". Would you like to change it to \"@c\"?",
+			"a_of_b": "@a of @b"
 		},
 		"word": {
 			"value": "value",
