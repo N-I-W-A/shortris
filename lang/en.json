@@ -22,7 +22,7 @@
 			}
 		},
 		"template": {
-			"ask_change": "Current @something is \"@before\". Would you like to change it to \"@after?\""
+			"ask_change": "Current @something is \"@before\". Would you like to change it to \"@after\"?"
 		},
 		"word": {
 			"value": "value",
