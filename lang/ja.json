@@ -11,6 +11,7 @@
 			        "languages": "言語"
 			},
 			"exit_game": "終了",
+			"cancel": "キャンセル",
 			"choose_difficulty": "難易度を選択してください",
 			"difficulty": {
 				"hard": "ハード",
